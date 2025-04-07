@@ -31,7 +31,7 @@
    ```
 
 3. **Run the notebook**
-   Open `lasso_feature_selection.ipynb` in Jupyter or VS Code and run all cells.
+   Open `lassolens.py` in  VS Code and run all cells.
 
 ---
 
